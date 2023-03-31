@@ -1,0 +1,1 @@
+import{_,p as t,q as o,R as e}from"./framework-5866ffd3.js";const s={},c=e("p",null,"自己整理笔记",-1),n=e("p",null,"勤能补拙",-1),l=[c,n];function r(a,d){return t(),o("div",null,l)}const f=_(s,[["render",r],["__file","想法生成器.html.vue"]]);export{f as default};

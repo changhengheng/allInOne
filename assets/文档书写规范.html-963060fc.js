@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1680e0de","path":"/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83.html","title":"文档书写规范","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"文档书写规范.md"}');export{e as data};

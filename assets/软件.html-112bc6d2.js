@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as _}from"./framework-5866ffd3.js";const s={},c=_("p",null,"Micrsoft Visio 流程图，类似于drawio",-1),n=[c];function r(a,i){return t(),o("div",null,n)}const d=e(s,[["render",r],["__file","软件.html.vue"]]);export{d as default};
