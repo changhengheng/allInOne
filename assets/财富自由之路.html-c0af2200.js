@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as _}from"./framework-5866ffd3.js";const s={},c=_("p",null,"比较是陷阱，是永远不会有尽头的。",-1),n=_("p",null,"多维度竞争",-1),l=[c,n];function r(a,d){return t(),o("div",null,l)}const f=e(s,[["render",r],["__file","财富自由之路.html.vue"]]);export{f as default};

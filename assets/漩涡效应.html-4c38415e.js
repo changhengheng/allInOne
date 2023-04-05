@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c2013ed0","path":"/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%BC%A9%E6%B6%A1%E6%95%88%E5%BA%94.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"读书笔记/漩涡效应.md"}');export{t as data};

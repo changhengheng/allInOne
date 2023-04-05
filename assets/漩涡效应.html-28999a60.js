@@ -1,0 +1,1 @@
+import{_,p as t,q as o,R as e}from"./framework-5866ffd3.js";const s={},c=e("p",null,"练习与分心周旋的技巧——漩涡效应",-1),n=e("p",null,"可以变得更主动，可以部分解决移情问题",-1),l=[c,n];function r(a,d){return t(),o("div",null,l)}const f=_(s,[["render",r],["__file","漩涡效应.html.vue"]]);export{f as default};
