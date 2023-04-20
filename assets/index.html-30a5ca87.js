@@ -1,0 +1,1 @@
+import{_ as n,M as o,p as a,q as c,N as r,R as e,t as s}from"./framework-5866ffd3.js";const _={},d=e("h1",{id:"首页",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#首页","aria-hidden":"true"},"#"),s(" 首页")],-1);function i(l,m){const t=o("MyComponent");return a(),c("div",null,[d,r(t)])}const p=n(_,[["render",i],["__file","index.html.vue"]]);export{p as default};

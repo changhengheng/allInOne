@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7dd6a186","path":"/Vue2/basic/%E6%89%AB%E7%9B%B2.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Vue2/basic/扫盲.md"}');export{e as data};

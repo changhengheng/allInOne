@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c72d21e6","path":"/learningEnglish/speaking/2.%E5%90%AC%E5%8A%9B%E9%83%A8%E5%88%86%E9%A1%B9%E7%9B%AE%E4%B8%80.html","title":"听力部分项目一","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"单词","slug":"单词","link":"#单词","children":[]}],"git":{},"filePathRelative":"learningEnglish/speaking/2.听力部分项目一.md"}');export{e as data};

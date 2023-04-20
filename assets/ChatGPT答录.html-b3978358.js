@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as r}from"./framework-5866ffd3.js";const s={},_=e("h1",{id:"chatgpt答录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#chatgpt答录","aria-hidden":"true"},"#"),r(" ChatGPT答录")],-1),o=[_];function n(h,d){return a(),c("div",null,o)}const l=t(s,[["render",n],["__file","ChatGPT答录.html.vue"]]);export{l as default};

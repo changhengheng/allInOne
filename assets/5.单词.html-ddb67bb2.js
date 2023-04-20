@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-332984bd","path":"/learningEnglish/speaking/5.%E5%8D%95%E8%AF%8D.html","title":"单词","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"learningEnglish/speaking/5.单词.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a157dbae","path":"/learningEnglish/speaking/","title":"英语","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"反思","slug":"反思","link":"#反思","children":[{"level":3,"title":"画小圈的例子","slug":"画小圈的例子","link":"#画小圈的例子","children":[]}]}],"git":{},"filePathRelative":"learningEnglish/speaking/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7929f62f","path":"/learningEnglish/word/","title":"word","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"GLOSSARY","slug":"glossary","link":"#glossary","children":[]}],"git":{},"filePathRelative":"learningEnglish/word/README.md"}');export{e as data};
