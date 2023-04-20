@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1d270d53","path":"/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86.html","title":"金字塔原理","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"阅读目的","slug":"阅读目的","link":"#阅读目的","children":[]}],"git":{},"filePathRelative":"读书笔记/金字塔原理.md"}');export{e as data};

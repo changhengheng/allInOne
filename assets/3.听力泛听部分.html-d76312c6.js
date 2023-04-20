@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6e52bc30","path":"/learningEnglish/speaking/3.%E5%90%AC%E5%8A%9B%E6%B3%9B%E5%90%AC%E9%83%A8%E5%88%86.html","title":"听力泛听部分","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"生词","slug":"生词","link":"#生词","children":[]}],"git":{},"filePathRelative":"learningEnglish/speaking/3.听力泛听部分.md"}');export{e as data};

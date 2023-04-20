@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a735de06","path":"/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681961570000,"contributors":[{"name":"changhengheng","email":"321121653@qq.com","commits":1}]},"filePathRelative":"读书笔记/财富自由之路.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1a088dbf","path":"/%E6%83%B3%E6%B3%95%E7%94%9F%E6%88%90%E5%99%A8.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681961570000,"contributors":[{"name":"changhengheng","email":"321121653@qq.com","commits":1}]},"filePathRelative":"想法生成器.md"}');export{e as data};

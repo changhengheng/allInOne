@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-397a352b","path":"/AntD/QuickStart.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681961570000,"contributors":[{"name":"changhengheng","email":"321121653@qq.com","commits":1}]},"filePathRelative":"AntD/QuickStart.md"}');export{t as data};

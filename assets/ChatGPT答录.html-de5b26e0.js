@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4a26c18a","path":"/ChatGPT/ChatGPT%E7%AD%94%E5%BD%95.html","title":"ChatGPT答录","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681961570000,"contributors":[{"name":"changhengheng","email":"321121653@qq.com","commits":1}]},"filePathRelative":"ChatGPT/ChatGPT答录.md"}');export{t as data};

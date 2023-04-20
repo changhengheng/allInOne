@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-bba04818","path":"/axios/axios%E7%9A%84%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6%E9%85%8D%E7%BD%AE.html","title":"请求方式","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"axios/axios的方法及其配置.md"}');export{a as data};

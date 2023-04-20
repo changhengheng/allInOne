@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2f222f6a","path":"/learningEnglish/speaking/4.%E8%AF%AD%E6%B3%95.html","title":"语法","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681961570000,"contributors":[{"name":"changhengheng","email":"321121653@qq.com","commits":1}]},"filePathRelative":"learningEnglish/speaking/4.语法.md"}');export{e as data};

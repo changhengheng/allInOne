@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-32050520","path":"/learningEnglish/ChatGPT%E6%8E%A2%E7%B4%A2.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"learningEnglish/ChatGPT探索.md"}');export{t as data};
